@@ -11,7 +11,7 @@ This repository is a customized version of the original template and no longer m
 - Projects page: `projects.md` and `_layouts/projects.html`
 - Contact page: `contact.md` and `_layouts/contact.html`
 - Shared navigation and profile data: `_data/settings.yml` and `_includes/header.html`
-- Publications section: `_includes/publications.html` and `_data/publications.yml`
+- About section: `_includes/about.html` and the social links defined in `_data/settings.yml`
 
 ## Files removed or renamed from the original template
 
@@ -24,7 +24,7 @@ The default academic theme files that were removed include:
 - `_layouts/courses.html`
 - `_layouts/cv.html`
 - `_layouts/people.html`
-- `_layouts/publications.html`
+- `_layouts/about.html`
 
 The site was reworked to use custom pages instead:
 
