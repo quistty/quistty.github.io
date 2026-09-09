@@ -5,9 +5,12 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 projects:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Robotic Arm', title: 'Mechanical Design Project', department: 'Mechanical Engineering', institution: 'McMaster University', institution_address: '1280 Main Street, Hamilton ON, Canada', phone: '(437) 922-2207', email: 'davequist22@gmail.com', office: 'Engineering Design Studio', image: 'assets/img/roboticArm.png', url: 'robotic-arm'}
+- {name: 'Wearable Proposal', title: 'Design Concept', department: 'Mechanical Engineering', institution: 'McMaster University', institution_address: '1280 Main Street, Hamilton ON, Canada', phone: '(437) 922-2207', email: 'davequist22@gmail.com', office: 'Engineering Design Studio', image: 'assets/img/wearable/wearable.png', url: 'wearable-proposal'}
+- {name: 'Java Based Game', title: 'Software Project', department: 'Computer Science', institution: 'McMaster University', institution_address: '1280 Main Street, Hamilton ON, Canada', phone: '(437) 922-2207', email: 'davequist22@gmail.com', office: 'Digital Workspace', image: 'assets/img/java/code.png', url: 'java-based-game'}
+- {name: 'Discord Bot', title: 'Automation Project', department: 'Software & Systems', institution: 'McMaster University', institution_address: '1280 Main Street, Hamilton ON, Canada', phone: '(437) 922-2207', email: 'davequist22@gmail.com', office: 'Digital Workspace', image: 'assets/img/rub bot/discordTests.png', url: 'discord-bot'}
+- {name: 'Dancing Robot', title: 'Robotics Prototype', department: 'Mechatronics', institution: 'McMaster University', institution_address: '1280 Main Street, Hamilton ON, Canada', phone: '(437) 922-2207', email: 'davequist22@gmail.com', office: 'Robotics Lab', image: 'assets/img/coming soon.png', url: 'dancing-robot'}
+- {name: 'Custom Keyboard', title: 'Hardware Build', department: 'Product Design', institution: 'McMaster University', institution_address: '1280 Main Street, Hamilton ON, Canada', phone: '(437) 922-2207', email: 'davequist22@gmail.com', office: 'Maker Space', image: 'assets/img/keyboard/dask schematic.png', url: 'custom-keyboard'}
 
 
 about:
