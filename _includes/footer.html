@@ -1,10 +1,15 @@
 <footer class="pt-5 my-5 text-muted border-top">
-  <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
+  <div class="row align-items-center">
+    <div class="col-md-6 text-end social-media-icons d-flex align-items-center justify-content-end">
+      <span class="small me-3">
+        <a href="https://www.flaticon.com/free-icons/robot-arm" title="robot arm icons" class="text-muted text-decoration-none">Robot arm icons created by Design Circle - Flaticon</a>
+      </span>
       {% for item in site.data.settings.about %}
-        <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
+        <a href="{{ item.link }}" class="ms-2 fs-5 text-muted"><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
     </div>
+    <div class="col-md-6 text-start small">
+      Forked from the <a href="https://github.com/LeNPaul/academic" target="_blank" rel="noopener noreferrer" class="text-muted">Academic theme</a> by LeNPaul.
+    </div>
   </div>
-  <a href="https://www.flaticon.com/free-icons/robot-arm" title="robot arm icons">Robot arm icons created by Design Circle - Flaticon</a>
 </footer>
