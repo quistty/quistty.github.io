@@ -10,7 +10,7 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
 }
 
@@ -18,6 +18,12 @@ body a {
   color: $linkColor;
 }
 
-h1, h2, h3, h4, h5, h6, p, li, ul {
-  font-size: inherit;
+h1, h2, h3, h4, h5, h6 {
+  font-size: 24px;
+  line-height: 1.2;
+  margin-top: 0;
+}
+
+p, li, ul, ol, a {
+  font-size: 20px;
 }
