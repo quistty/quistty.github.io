@@ -4,7 +4,7 @@ title: "Wearable Proposal"
 ---
 
 
-<p>This project focused on reimagining a wearable health-monitoring concept for individuals with Alzheimer’s disease. The design intentionally simplified the interface and emphasized comfort, accessibility, and clear alerts through voice, haptics, and LED cues.</p>
+<p>This project focused on reimagining a wearable health-monitoring concept for individuals with Alzheimer’s disease. The design intentionally simplified the interface and emphasized comfort, accessibility, and clear alerts through voice, haptics, and LED cues. Read the abstract below to find out more</p>
 
 <div class="row g-3 mb-4 project-collage">
   <div class="col-md-6 project-collage-item">

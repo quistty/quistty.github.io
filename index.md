@@ -7,7 +7,6 @@ This portfolio showcases some of the projects I’m most proud of and reflects t
 
 I enjoy working on projects where I can take an idea, break it down into smaller technical challenges, and gradually turn it into something functional. Whether I’m designing a robotic system, developing software, creating a PCB, or working through a team engineering challenge, I try to focus on understanding the decisions behind the design and improving through testing and iteration.
 
-This portfolio is a collection of that process. It highlights both completed work and projects that are still developing, along with the skills and lessons I’ve gained along the way. I hope you enjoy exploring my work and getting a better understanding of the type of engineer and builder I’m working to become.
-
+This portfolio is a collection of that process. It highlights both completed work and projects that are still developing, along with the skills and lessons I’ve gained along the way. Click the link down below to see all my projects!
 
 

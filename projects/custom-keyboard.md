@@ -18,4 +18,4 @@ title: "Custom Keyboard"
   </div>
 </div>
 
-<p><a href="https://github.com/quistty/ulay65" target="_blank" rel="noopener noreferrer">no writeup right now, visit the repository to read the readme for now!</a></p>
+<p><a href="https://github.com/quistty/ulay65" target="_blank" rel="noopener noreferrer">no writeup right now, visit the repository to see the KiCad files!</a></p>
