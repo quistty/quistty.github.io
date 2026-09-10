@@ -34,7 +34,8 @@ p, li, ul, ol, a {
   width: 100%;
   max-width: 100%;
   height: 360px;
-  object-fit: contain;
+  object-fit: cover;
+  object-position: center;
   margin: 0 auto;
 }
 
@@ -54,14 +55,22 @@ p, li, ul, ol, a {
 
 .project-collage-item {
   display: flex;
+  flex-direction: column;
 }
 
 .project-collage-image {
   display: block;
   width: 100%;
-  height: 220px;
+  aspect-ratio: 1360 / 986;
   object-fit: cover;
   object-position: center;
+}
+
+.project-collage-caption {
+  margin: 0.5rem 0 0;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.3;
 }
 
 .home-centered-link {
@@ -76,7 +85,7 @@ p, li, ul, ol, a {
   }
 
   .home-image-column {
-    padding-left: 0;
+    padding-left: 0.75rem;
     padding-right: 0;
   }
 }
@@ -88,7 +97,4 @@ p, li, ul, ol, a {
     height: 320px;
   }
 
-  .project-collage-image {
-    height: 180px;
-  }
 }
