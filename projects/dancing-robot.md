@@ -6,9 +6,9 @@ title: "Dancing Robot"
 
 
 
-<div class="row g-3 mb-4">
-  <div class="col-md-12">
-    <img src="{{ site.github.url }}/assets/img/coming soon.png" alt="Dancing robot coming soon" class="img-fluid" style="border: 1px solid #000;">
+<div class="row g-3 mb-4 justify-content-center project-collage">
+  <div class="col-md-8 project-collage-item">
+    <img src="{{ site.github.url }}/assets/img/coming soon.png" alt="Dancing robot coming soon" class="project-collage-image">
   </div>
 </div>
 
