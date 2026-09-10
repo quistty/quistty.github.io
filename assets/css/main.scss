@@ -59,9 +59,14 @@ p, li, ul, ol, a {
 .project-collage-image {
   display: block;
   width: 100%;
-  aspect-ratio: 1360 / 986;
+  height: 220px;
   object-fit: cover;
   object-position: center;
+}
+
+.home-centered-link {
+  margin: -1.5rem 0 3rem;
+  text-align: center;
 }
 
 @media (min-width: 768px) {
@@ -81,5 +86,9 @@ p, li, ul, ol, a {
   .home-project-image {
     max-width: 100%;
     height: 320px;
+  }
+
+  .project-collage-image {
+    height: 180px;
   }
 }
